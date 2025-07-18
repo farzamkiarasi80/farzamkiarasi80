@@ -21,6 +21,7 @@
 </div>
 
 ###
+
 <p align="left">Email: farzamkiarasi80@gmail.com</p>
 <p align="left">"Passionate Rust developer dedicated to building and reinventing high-performance hardware and software solutions. Leveraging the power of Rust to drive innovation and create next-generation technologies."</p>
 <p align="left">Rustacean / "In the open-source world, collaboration drives innovation." / You can contact me via Telegram: t.me/farzamkiarasi80</p>
