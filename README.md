@@ -33,7 +33,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farzamkiarasi80&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=farzamkiarasi80&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=farzamkiarasi80&theme=gruvbox&no-bg=false" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farzamkiarasi80&theme=gruvbox" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farzamkiarasi80&theme=gruvbox" height="220" alt="activity-graph graph"  />
 </div>
 
 ###
