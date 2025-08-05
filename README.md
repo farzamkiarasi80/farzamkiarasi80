@@ -5,6 +5,7 @@
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=farzamkiarasi80.farzamkiarasi80&"  />
 </div>
+[![Website](https://img.shields.io/badge/Website-farzamkiarasi.net-blue?style=flat-square)](https://farzamkiarasi.net)
 
 ###
 
