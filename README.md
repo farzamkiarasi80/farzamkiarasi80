@@ -23,6 +23,8 @@ I am a Biomedical Engineering graduate specializing in innovative software and h
 <p align="left">Youtube: youtube.com/@farzamkiarasi</p>
 <p align="left">Telegram: t.me/farzamkiarasi80</p>
 <p align="left">Medium: medium.com/@farzamkiarasi80</p>
+<p align="left">Twitch: twitch.tv/farzamkiarasi80</p>
+
 
 
 ###
