@@ -12,18 +12,18 @@
 
 ###
 
+
+<p align="left">Hi, my name is Farzam Kiarasi.
+I am a Biomedical Engineering graduate specializing in innovative software and hardware development, code optimization, and advanced circuit design.</p>
+
 <p align="left">Website: farzamkiarasi.net</p>
 <p align="left">Email: farzamkiarasi80@gmail.com</p>
 <p align="left">Linkedin: linkedin.com/in/farzamkiarasi80</p>
-<p align="left">Twitter: x.com/farzamkiarasi80)</p>
+<p align="left">Twitter: x.com/farzamkiarasi80</p>
 <p align="left">Youtube: youtube.com/@farzamkiarasi</p>
 <p align="left">Telegram: t.me/farzamkiarasi80</p>
 <p align="left">Medium: medium.com/@farzamkiarasi80</p>
 
-
-
-<p align="left">Hi, my name is Farzam Kiarasi.
-I am a Biomedical Engineering graduate specializing in innovative software and hardware development, code optimization, and advanced circuit design.</p>
 
 ###
 
